@@ -22,3 +22,22 @@ This repository has the implementations for four models:
 
 ## LightGCN
 - Install RecBole package in https://github.com/RUCAIBox/RecBole
+
+
+# Dataset
+
+1. Movielens-25m
+2. Yelp
+3. Amazon-music
+4. Amazon-electronic
+
+Datasets can be downloaded from 
+
+# Data formart
+
+---------------------------------------------
+User ID | Item Id | Rating | Timestamp | Year
+---------------------------------------------
+
+
+

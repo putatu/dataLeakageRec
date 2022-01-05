@@ -31,7 +31,7 @@ This repository has the implementations for four models:
 3. Amazon-music
 4. Amazon-electronic
 
-Datasets can be downloaded from 
+Datasets can be downloaded from https://drive.google.com/drive/folders/1TyQysstuaUo4IYb3WaVt4dVFOyZu3oN_?usp=sharing
 
 # Data formart
 

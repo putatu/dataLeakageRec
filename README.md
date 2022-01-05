@@ -38,7 +38,7 @@ Datasets can be downloaded from
 
 User ID | Item Id | Rating | Timestamp | Year
 --------|---------|--------|-----------|-----
-........|.........|........|...........|.....
+...|...|...|...|...
 
 
 

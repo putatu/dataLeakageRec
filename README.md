@@ -3,9 +3,9 @@ Code to reproduce the experiments from the paper: A critical study on data leaka
 
 This repository has the implementations for four models:
 1. BPR
-2. NeuMF
-3. SASRec
-4. LightGCN
+2. NeuMF: we follow https://github.com/hexiangnan/neural_collaborative_filtering
+3. SASRec: we follow https://github.com/pmixer/SASRec.pytorch
+4. LightGCN: we follow https://github.com/RUCAIBox/RecBole
 
 # Environment Requirement
 ## BPR
@@ -21,4 +21,4 @@ This repository has the implementations for four models:
 - PyTorch >= 1.6
 
 ## LightGCN
-- Install https://github.com/RUCAIBox/RecBole
+- Install RecBole package in https://github.com/RUCAIBox/RecBole

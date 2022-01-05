@@ -40,5 +40,14 @@ User ID | Item Id | Rating | Timestamp | Year
 --------|---------|--------|-----------|-----
 ...|...|...|...|...
 
+# Examples to run the code
+
+```
+cd BPR/
+python test.py --path data/ --data movielens --test_year 5 --num_years_added 0 --gpu 1
+```
+
+
+
 
 
